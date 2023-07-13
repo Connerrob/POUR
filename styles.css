@@ -2,6 +2,9 @@
 html {
     background-color: #002657;
 }
+p {
+    line-height:1.5;
+}
 /* Start of Navbar styles */
 nav {
     display: flex;
