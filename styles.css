@@ -313,6 +313,7 @@ img {
     display: flex;
     flex-direction: row;
     width: 100%;
+    color: var(--dark-blue, #002657);
 }
 .column {
     display: flex;
