@@ -151,7 +151,7 @@ h4 {
 }
 p {
     color: var(--dark-blue, #002657);
-    font-size: 16px;
+    font-size: 1em;
     font-family: 'PT Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
