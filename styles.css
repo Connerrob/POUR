@@ -2,9 +2,6 @@
 html {
     background-color: #002657;
 }
-p {
-    line-height:1.5;
-}
 /* Start of Navbar styles */
 nav {
     display: flex;
@@ -158,7 +155,7 @@ p {
     font-family: 'PT Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
-    line-height: normal;
+    line-height: 24px;
 }
 .EP-section {
     display: flex;
