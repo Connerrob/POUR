@@ -392,7 +392,7 @@ footer {
         margin-top: -12px;
     }
     .icon {
-        margin-left: 0;
+        display: none;
     }
     /* Link card styles */
     .useful-links {
@@ -429,5 +429,6 @@ footer {
     }
     .myBio {
         font-size: 14px;
+        margin-right: 500px;
     }
 }
