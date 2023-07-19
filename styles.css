@@ -329,6 +329,8 @@ img {
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+    font-family: 'PT Sans', sans-serif;
+    color: var(--dark-blue, #002657);
   }
   .vertical {
     display: flex;
