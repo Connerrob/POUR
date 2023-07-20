@@ -282,7 +282,7 @@ img {
     font-family: 'Space Mono', monospace;
     font-style: normal;
     font-weight: 700;
-    line-height: normal;
+    line-height: 1.5;
 }
 .bio-card {
     display: flex;
@@ -303,7 +303,7 @@ img {
     font-family: 'Space Mono', monospace;
     font-style: normal;
     font-weight: 700;
-    line-height: normal;
+    line-height: 1.5;
     margin-bottom: -10px;
 }
 .myBio {
