@@ -203,7 +203,7 @@ p {
     align-self: stretch;
     padding-left: 425px;
 }
-.links{
+#links{
     color: var(--dark-blue, #002657);
     font-size: 40px;
     font-family: 'Space Mono', monospace;
