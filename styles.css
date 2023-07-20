@@ -316,7 +316,7 @@ img {
     font-family: 'PT Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.5rem;
+    line-height: 1.5;
 }
 .interest-hobby {
     display: flex;
