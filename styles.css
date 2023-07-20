@@ -249,8 +249,7 @@ section {
     border-top: 3px solid var(--dark-blue, #002657);
 }
 img {
-    width: 100px;
-    height: 100px;
+    height: 100%;
     flex-shrink: 0;
     padding-right: 10px;
     display: flex;
