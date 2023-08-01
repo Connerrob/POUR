@@ -373,7 +373,8 @@ footer {
     }
     /* Header styles */
     header {
-        padding: 48px 10px;
+        padding: 10px 10px;
+        width: 768px;
     }
     h1 {
         font-size: 36px;
@@ -383,18 +384,18 @@ footer {
     }
     /* Main content styles */
     main {
-        padding: 48px 10px;
+        font-size: 24px;
+        width: 768px;
     }
     .POUR-Card {
-        width: 100%;
-        max-width: 100%;
+        width: 400px;
         padding: 16px;
     }
     h2 {
-        font-size: 32px;
+        font-size: 24px;
     }
     h3 {
-        font-size: 24px;
+        font-size: 20px;
     }
     h4 {
         font-size: 14px;
@@ -418,6 +419,7 @@ footer {
     /* Section styles */
     section {
         padding: 0px 10px 48px 10px;
+        width: 768px;
     }
     img {
         width: 80px;
@@ -430,8 +432,7 @@ footer {
         font-size: 32px;
     }
     .bio-card {
-        width: 100%;
-        max-width: 100%;
+        width: 400px;
         padding: 16px;
     }
     .myName {
