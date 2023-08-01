@@ -364,6 +364,9 @@ footer {
 /* End of Footer */
 
 @media (max-width: 768px) {
+    html {
+        max-width: 768px;
+    }
     /* Navbar styles */
     nav {
         padding: 12px 48px;
